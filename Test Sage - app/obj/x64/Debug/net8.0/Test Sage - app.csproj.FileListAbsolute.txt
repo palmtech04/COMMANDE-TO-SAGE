@@ -1,0 +1,31 @@
+D:\Developpement\Test Sage - app\Test Sage - app\bin\x64\Debug\net8.0\Test Sage - app.exe
+D:\Developpement\Test Sage - app\Test Sage - app\bin\x64\Debug\net8.0\Test Sage - app.deps.json
+D:\Developpement\Test Sage - app\Test Sage - app\bin\x64\Debug\net8.0\Test Sage - app.runtimeconfig.json
+D:\Developpement\Test Sage - app\Test Sage - app\bin\x64\Debug\net8.0\Test Sage - app.dll
+D:\Developpement\Test Sage - app\Test Sage - app\bin\x64\Debug\net8.0\Test Sage - app.pdb
+D:\Developpement\Test Sage - app\Test Sage - app\bin\x64\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Developpement\Test Sage - app\Test Sage - app\bin\x64\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Developpement\Test Sage - app\Test Sage - app\bin\x64\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Developpement\Test Sage - app\Test Sage - app\bin\x64\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Developpement\Test Sage - app\Test Sage - app\bin\x64\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Developpement\Test Sage - app\Test Sage - app\bin\x64\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Developpement\Test Sage - app\Test Sage - app\bin\x64\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Developpement\Test Sage - app\Test Sage - app\bin\x64\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Developpement\Test Sage - app\Test Sage - app\bin\x64\Debug\net8.0\Newtonsoft.Json.dll
+D:\Developpement\Test Sage - app\Test Sage - app\bin\x64\Debug\net8.0\System.IO.Pipelines.dll
+D:\Developpement\Test Sage - app\Test Sage - app\bin\x64\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Developpement\Test Sage - app\Test Sage - app\bin\x64\Debug\net8.0\System.Text.Json.dll
+D:\Developpement\Test Sage - app\Test Sage - app\bin\x64\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Developpement\Test Sage - app\Test Sage - app\obj\x64\Debug\net8.0\Test Sage - app.csproj.AssemblyReference.cache
+D:\Developpement\Test Sage - app\Test Sage - app\obj\x64\Debug\net8.0\Interop.Objets100cLib.dll
+D:\Developpement\Test Sage - app\Test Sage - app\obj\x64\Debug\net8.0\Test Sage - app.csproj.ResolveComReference.cache
+D:\Developpement\Test Sage - app\Test Sage - app\obj\x64\Debug\net8.0\Test Sage - app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developpement\Test Sage - app\Test Sage - app\obj\x64\Debug\net8.0\Test Sage - app.AssemblyInfoInputs.cache
+D:\Developpement\Test Sage - app\Test Sage - app\obj\x64\Debug\net8.0\Test Sage - app.AssemblyInfo.cs
+D:\Developpement\Test Sage - app\Test Sage - app\obj\x64\Debug\net8.0\Test Sage - app.csproj.CoreCompileInputs.cache
+D:\Developpement\Test Sage - app\Test Sage - app\obj\x64\Debug\net8.0\Test Sag.F6F8C899.Up2Date
+D:\Developpement\Test Sage - app\Test Sage - app\obj\x64\Debug\net8.0\Test Sage - app.dll
+D:\Developpement\Test Sage - app\Test Sage - app\obj\x64\Debug\net8.0\refint\Test Sage - app.dll
+D:\Developpement\Test Sage - app\Test Sage - app\obj\x64\Debug\net8.0\Test Sage - app.pdb
+D:\Developpement\Test Sage - app\Test Sage - app\obj\x64\Debug\net8.0\Test Sage - app.genruntimeconfig.cache
+D:\Developpement\Test Sage - app\Test Sage - app\obj\x64\Debug\net8.0\ref\Test Sage - app.dll

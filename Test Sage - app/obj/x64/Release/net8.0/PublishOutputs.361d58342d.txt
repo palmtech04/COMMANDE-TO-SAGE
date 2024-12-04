@@ -1,0 +1,18 @@
+C:\Users\Hp\Desktop\Caisse to Sage\Commande to sage.exe
+C:\Users\Hp\Desktop\Caisse to Sage\Commande to sage.dll
+C:\Users\Hp\Desktop\Caisse to Sage\Commande to sage.deps.json
+C:\Users\Hp\Desktop\Caisse to Sage\Commande to sage.runtimeconfig.json
+C:\Users\Hp\Desktop\Caisse to Sage\Commande to sage.pdb
+C:\Users\Hp\Desktop\Caisse to Sage\Microsoft.Extensions.Configuration.dll
+C:\Users\Hp\Desktop\Caisse to Sage\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hp\Desktop\Caisse to Sage\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Hp\Desktop\Caisse to Sage\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Hp\Desktop\Caisse to Sage\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Hp\Desktop\Caisse to Sage\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Hp\Desktop\Caisse to Sage\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Hp\Desktop\Caisse to Sage\Microsoft.Extensions.Primitives.dll
+C:\Users\Hp\Desktop\Caisse to Sage\Newtonsoft.Json.dll
+C:\Users\Hp\Desktop\Caisse to Sage\System.IO.Pipelines.dll
+C:\Users\Hp\Desktop\Caisse to Sage\System.Text.Encodings.Web.dll
+C:\Users\Hp\Desktop\Caisse to Sage\System.Text.Json.dll
+C:\Users\Hp\Desktop\Caisse to Sage\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
